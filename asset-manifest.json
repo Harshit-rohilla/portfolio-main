@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.645beb3c.css",
-    "main.js": "/static/js/main.3fbf1826.js",
-    "static/media/Game.png": "/static/media/Game.4cace00cf0c64e493a03.png",
-    "static/media/SER.jpg": "/static/media/SER.db6a3bb5e1bb170f8c9b.jpg",
-    "static/media/web-removebg-preview.png": "/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
-    "static/media/Web-designer-1024x821.webp": "/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
-    "static/media/logor.png": "/static/media/logor.79880cc41de9b15f45b5.png",
-    "static/media/bars.svg": "/static/media/bars.a2e35dd5aede7934d82e.svg",
-    "index.html": "/index.html",
-    "main.645beb3c.css.map": "/static/css/main.645beb3c.css.map",
-    "main.3fbf1826.js.map": "/static/js/main.3fbf1826.js.map"
+    "main.css": "/portfolio-main/static/css/main.0b45320f.css",
+    "main.js": "/portfolio-main/static/js/main.0598a4c1.js",
+    "static/media/Game.png": "/portfolio-main/static/media/Game.4cace00cf0c64e493a03.png",
+    "static/media/SER.jpg": "/portfolio-main/static/media/SER.db6a3bb5e1bb170f8c9b.jpg",
+    "static/media/web-removebg-preview.png": "/portfolio-main/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/portfolio-main/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/logor.png": "/portfolio-main/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/portfolio-main/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/portfolio-main/index.html",
+    "main.0b45320f.css.map": "/portfolio-main/static/css/main.0b45320f.css.map",
+    "main.0598a4c1.js.map": "/portfolio-main/static/js/main.0598a4c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.645beb3c.css",
-    "static/js/main.3fbf1826.js"
+    "static/css/main.0b45320f.css",
+    "static/js/main.0598a4c1.js"
   ]
 }
